@@ -5,8 +5,10 @@
     text-align: end;
 }
 .fotocabeçalho{
-    width: 100%;
-    height: 40%;
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
 }
 .titulo{
     text-align: center;
