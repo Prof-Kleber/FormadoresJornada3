@@ -5,7 +5,7 @@
     text-align: end;
 }
 .fotocabeçalho{
-    display: flex;
+    display: block;
 
 
 }
