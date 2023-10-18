@@ -1,15 +1,17 @@
 .cabeçalho{
     background-color:deepskyblue;
     font-family: monospace;
-    font-size: 30px;
+    font-size: 20px;
     text-align: end;
 }
 .fotocabeçalho{
+    display: flex;
+
 
 }
 .titulo{
-text-align: center;
+    text-align: center;
 }
 .titulo2{
-text-align: center;
+    text-align: center;
 }
