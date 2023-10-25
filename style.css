@@ -7,7 +7,7 @@
 #fotocabeçalho{
     width: auto;
     height: auto;
-    max-width: fit-content;
+    max-height: fit-content;
 }
 #titulo{
     text-align: center;
