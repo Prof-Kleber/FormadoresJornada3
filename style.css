@@ -1,6 +1,8 @@
 body{
 background-color: deepskyblue;
 color: white;
+width: auto;
+height: auto;
 }
 .navegacao{
     background-color:deepskyblue;
