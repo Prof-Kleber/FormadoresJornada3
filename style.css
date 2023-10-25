@@ -1,4 +1,4 @@
-.cabeçalho{
+.navegacao{
     background-color:deepskyblue;
     font-family: monospace;
     font-size: 20px;
@@ -7,6 +7,7 @@
 #fotocabeçalho{
     width: auto;
     height: auto;
+    max-width: fit-content;
 }
 #titulo{
     text-align: center;
