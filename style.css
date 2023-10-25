@@ -4,15 +4,15 @@
     font-size: 20px;
     text-align: end;
 }
-.fotocabeçalho{
+#fotocabeçalho{
     max-width:80%;
     max-height:500px;
     width: auto;
     height: auto;
 }
-.titulo{
+#titulo{
     text-align: center;
 }
-.titulo2{
+#titulo2{
     text-align: center;
 }
