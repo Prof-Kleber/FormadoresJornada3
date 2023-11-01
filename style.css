@@ -13,7 +13,7 @@ font-size: 20px;
     width:1265px;
 }
 #fotocabeçalho{
-    text-align: center;
+    align-self: center;
     width: auto;
     height: auto;  
 }
