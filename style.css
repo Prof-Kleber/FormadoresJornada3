@@ -1,17 +1,19 @@
 body{
-background-color: deepskyblue;
+background-color: black;
 color: white;
 width: auto;
 height: auto;
+font-size: 20px;
 }
 .navegacao{
-    background-color:deepskyblue;
+    background-color:black;
     font-family: monospace;
     font-size: 20px;
     text-align: end;
     width:1265px;
 }
 #fotocabeçalho{
+    text-align: center;
     width: auto;
     height: auto;  
 }
