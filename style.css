@@ -27,4 +27,5 @@ text-align: center;
 .rodape{
     width: max-content;
     height: max-content;
+    align-self: center;
 }
