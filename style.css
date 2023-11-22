@@ -24,6 +24,9 @@ text-align: center;
 #titulo2{
     text-align: center;
 }
+.paragrafo{
+    background-color: gray;
+}
 ul{
     text-align: left;
     list-style-type: "\2705"; 
