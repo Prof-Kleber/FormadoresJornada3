@@ -24,6 +24,9 @@ text-align: center;
 #titulo2{
     text-align: center;
 }
+ul{
+    text-align: left;
+}
 li{
-    list-style-type: \"2705";
+    list-style-type: \"2705"; 
 }
