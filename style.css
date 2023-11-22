@@ -36,4 +36,7 @@ ul{
 ol{
     text-align: left;
 }
-
+.logo{
+    height: 50px;
+    width: 50px;
+}
