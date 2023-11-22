@@ -26,10 +26,9 @@ text-align: center;
 }
 ul{
     text-align: left;
-}
-li{
     list-style-type: "\2705"; 
 }
+
 ol{
     text-align: left;
 }
