@@ -26,6 +26,7 @@ text-align: center;
 }
 .paragrafo{
     background-color: gray;
+    text-align: justify;
 }
 ul{
     text-align: left;
