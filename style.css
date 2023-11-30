@@ -33,14 +33,14 @@ ul{
     list-style-type: "\2705";
 }
 
-ol{
-    text-align: left;
-}
 .logo{
     height: 200px;
     width: 400px;
 }
 .meiodapagina{
     display: flex;
+}
+.rodape{
+    background-color: gainsboro;
 }
 
